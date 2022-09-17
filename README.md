@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Manish Singh
+                                Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ |Python Analytics |
+ 
+👋 Hi, I’m [Manish Singh](https://www.linkedin.com/in/manish-singh-52200b161/)
+
+## About :: 
+B.TECH final year student from National Institute Of Technology, Arunachal Pradesh. Passionate about Data Science, Machine Learning and Data Analysis. Currently looking for internships and full-time oppurtunities in the field of Data analytics and Machine learning Engineering.
+
+<center>
+	<img src="https://i.postimg.cc/L4ghcd8x/character-1.gif" width="550" height="400">
+</center>
+
 - 👀 I’m interested in Machine Learning, Deep learning and Data Analytics.
-- 🌱 I’m currently in my final year, pursuing an Engineering degree from National Institute Of Technology Arunachal Pradesh.
 - 💞️ I’m looking for jobs in the domain of Data analytics, Machine Learning engineering and Data science.
 
-
-<!---
-singhmanish2411/singhmanish2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technologies  :
+- Data Analysis with **Python**.
+- Data Structures and algorithms.
+- Python.
+- Machine Learning
+- HTML/ XML
+- Deep Learning (Beginner)
+- Tableau
+- Excel
