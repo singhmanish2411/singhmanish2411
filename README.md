@@ -1,4 +1,4 @@
-                                 Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | PYTHON | Data Engineer |
+                                 Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | PYTHON | Data Engineering | Azure 
  
 👋 Hi, I’m [Manish Singh](https://www.linkedin.com/in/manish-singh-52200b161/)
 
@@ -10,13 +10,13 @@ development. I Have a strong proficiency in Python and Machine Learning models a
 	<img src="https://i.postimg.cc/L4ghcd8x/character-1.gif" width="550" height="400">
 </center>
 
-- 👀 I’m interested in Machine Learning, Deep learning and Data Engineering.
+- 👀 I’m interested in AI engineering, Deep learning and Data Engineering.
 - 💞️ I’m looking for jobs in the domain of Data Engineer/Data Scientist.
 
 ## Technologies  :
 - **Python**, **SQL**
-- ETL/ELT development.
-- Pyspark.
+- ETL/ELT development
+- Pyspark
 - Azure Databricks
 - Azure Data Factory
 - Microsoft Fabric
