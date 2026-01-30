@@ -1,4 +1,4 @@
-                                Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ |Python Analytics |
+                                 Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | PYTHON | Data Engineer |
  
 👋 Hi, I’m [Manish Singh](https://www.linkedin.com/in/manish-singh-52200b161/)
 
